@@ -192,6 +192,9 @@ header{
    float: right;
    margin-top: -575px;
 }
+.videos_block:nth-child(3){
+    margin-top: -34%;
+}
 main{
     display: flex;
 }
